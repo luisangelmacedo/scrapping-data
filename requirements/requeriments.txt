@@ -1,0 +1,6 @@
+gitpython
+pandas
+requests
+pymysql
+sqlalchemy
+BeautifulSoup4
